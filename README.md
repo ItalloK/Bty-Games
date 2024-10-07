@@ -7,13 +7,13 @@
 
 <h3>Galeria de Imagens</h3>
 <p align="center">
-  <img src="Imagens/1.jpeg" width="125" alt="Imagem 1">
-  <img src="Imagens/2.jpeg" width="125" alt="Imagem 2">
-  <img src="Imagens/3.jpeg" width="125" alt="Imagem 3">
-  <img src="Imagens/4.jpeg" width="125" alt="Imagem 4">
-  <img src="Imagens/5.jpeg" width="125" alt="Imagem 5">
-  <img src="Imagens/6.jpeg" width="125" alt="Imagem 6">
-  <img src="Imagens/7.jpeg" width="125" alt="Imagem 7">
+  <img src="Imagens/1.jpeg" width="120" alt="Imagem 1">
+  <img src="Imagens/2.jpeg" width="120" alt="Imagem 2">
+  <img src="Imagens/3.jpeg" width="120" alt="Imagem 3">
+  <img src="Imagens/4.jpeg" width="120" alt="Imagem 4">
+  <img src="Imagens/5.jpeg" width="120" alt="Imagem 5">
+  <img src="Imagens/6.jpeg" width="120" alt="Imagem 6">
+  <img src="Imagens/7.jpeg" width="120" alt="Imagem 7">
 </p>
 <h6>Imagens de dentro do jogo.</h6>
 
